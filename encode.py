@@ -17,5 +17,5 @@ for num in bin_msg:
         curr_pixel += 10
     curr_pixel += 10
 
-# img.show()
+img.show()
 img.save("encoded.png")
