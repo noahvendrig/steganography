@@ -7,7 +7,7 @@ curr_pixel = 1
 decoding = True
 
 bin_msg = []
-
+#
 while decoding:
     curr_num = ''
     for n in range(8):  # each binary string is only 8 digits long
